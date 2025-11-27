@@ -1,3 +1,4 @@
+import CatFriends from "./components/CatFriends";
 import Domref from "./components/Domref";
 import Form from "./components/Form";
 
@@ -10,6 +11,7 @@ const App = () => {
     </div>
 
     <Form/>
+    <CatFriends/>
     </>
   );
 };
