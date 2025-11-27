@@ -1,5 +1,5 @@
 import Domref from "./components/Domref";
-
+import Form from "./components/Form";
 
 const App = () => {
  
@@ -9,7 +9,7 @@ const App = () => {
       <Domref />
     </div>
 
-    
+    <Form/>
     </>
   );
 };
